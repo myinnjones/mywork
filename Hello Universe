@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <title>What about My:  My Tech Metamorphosis</title>
+    </head>
+    <body>
+      <h1>Hello Universe!</h1>
+      <p class="lead">I am a web application developer at Tech Talent South, and I am learning how to code
+        <i>Programming for Business People</i>.</p>
+
+        <p>
+          <a class="btn btn-lg btn-success"
+          role="button"
+          href="http//techtalentsouth.com/">
+          Learn More</a>
+    </body>
+<h3>My Past Work</h3>
+    <h4> Tech Talent South<small>Web Developer newbie</small></h4>
+    <p>Tech Talent South (TTS) is a Charlotte-based coding bootcamp dedicated to fostering talent in technology throughout the southeast United States and aid the region in evolving its high-tech hubs.</p>
+
+    <p><a href="https://www.techtalentsouth.com/about">www.techtalentsouth.com</a><p>
+<h4>Tech Talent South <small>Student</small></h4>
+<p>Tech Talent South (TTS) is a Charlotte-based coding bootcamp dedicated to fostering talent in technology throughout the southeast United States and aid the region in evolving its high-tech hubs.</p>
+<p><a href="https://www.techtalentsouth.com/about">www.techtalentsouth.com</a></p>
+<h3>Contact Me Now</h3>
+
+  <h6>Email<h6>
+    <p>
+      <a href="mailto:myinnjones@gmail.com">myinnjones@gmail.com</a>
+      </p>
+
+      <h6>Instagram</h6>
+        <p>
+          <a href="http://www.instagram.com/ms_rayj">@ms_ray</a></p>
+            <h6>Phone</h6>
+            <p>757-352-8055</p>
+
+
+</html>
